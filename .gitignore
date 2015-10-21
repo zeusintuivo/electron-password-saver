@@ -25,6 +25,7 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+
 bower_components
 
 cache
@@ -32,3 +33,4 @@ dist/v0.31.2
 
 src/app.db
 **/*.DS_Store
+

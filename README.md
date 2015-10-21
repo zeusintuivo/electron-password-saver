@@ -1,4 +1,10 @@
-# toptal-electron-loki-demo
+# electron-password-saver
+Electron: Cross-platform Desktop Apps Made Easy as thought by by Stéphane P. Péricat
+
+
+
+
+# electron-password-saver
 
 A password keychain desktop app built with Electron & Loki.js.
 
@@ -19,7 +25,7 @@ npm install -g gulp bower
 ## Install
 
 ```shell
-cd /path/to/toptal-electron-loki-demo/
+cd /path/to/electron-password-saver/
 npm i
 cd src/
 npm i && bower i
@@ -28,13 +34,13 @@ npm i && bower i
 ## Run the app
 
 ```shell
-cd /path/to/toptal-electron-loki-demo/
+cd /path/to/electron-password-saver/
 npm start
 ```
 
 ## Build the distribution files
 
 ```shell
-cd /path/to/toptal-electron-loki-demo/
+cd /path/to/electron-password-saver/
 npm run dist
 ```
