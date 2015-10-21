@@ -1,7 +1,7 @@
 {
-  "name": "toptal-electron-loki-demo",
+  "name": "electron-password-saver",
   "version": "1.0.1",
-  "homepage": "https://github.com/stephanepericat/toptal-electron-loki-demo",
+  "homepage": "https://github.com/zeusintuivo/electron-password-saver",
   "authors": [
     "Stéphane P. Péricat <stephane@toptal.com>"
   ],

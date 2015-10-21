@@ -6,19 +6,19 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stephanepericat/toptal-electron-loki-demo.git"
+    "url": "git+https://github.com/zeusintuivo/electron-password-saver.git"
   },
   "keywords": [
     "toptal",
     "electron",
     "loki"
   ],
-  "author": "Stéphane P. Péricat <stephane@toptal.com>",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/stephanepericat/toptal-electron-loki-demo/issues"
+    "url": "https://github.com/zeusintuivo/electron-password-saver/issues"
   },
-  "homepage": "https://github.com/stephanepericat/toptal-electron-loki-demo#readme",
+  "homepage": "https://github.com/zeusintuivo/electron-password-saver#readme",
   "dependencies": {
     "lokijs": "^1.3.9",
     "uuid": "^2.0.1"
